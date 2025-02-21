@@ -1,4 +1,3 @@
-Shigetomo SAKUMA
 ### 👋 I'm Kota Kotegawa
 ![koteyeah](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koteyeah&theme=zenburn)
 
